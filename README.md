@@ -28,6 +28,8 @@ Assets:
 
 [Piece falling effect code by Jason Francis](https://github.com/BL-MSCH-C220-Test/Exercise-03c-Music-and-Sound/blob/master/Brick/Brick.gd)
 
+[Base game code by Jason Francis](https://github.com/BL-MSCH-C220-S21/03-Match-3)
+
 Music by my wife Aeris E. Kaliczak
 
 Rooster sound effect by my rooster
