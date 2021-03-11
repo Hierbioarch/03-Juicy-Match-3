@@ -6,6 +6,10 @@ My attempt at juicing up a match three game for a class project using the Godot 
 ## Implementation
 Built using Godot 3.2.3
 
+Music made in MusicScore 3.6.2
+
+Sound effects made using Audacity 2.3.3
+
 Features:
 Music, sound effects, change of icons, particles when matched, change of the type face, changed colors, shaking the screen when matched, add particles when elements is removed, make elements fall off the screen when matched, make them rotate when matched
 
@@ -24,7 +28,7 @@ Assets:
 
 [Piece falling effect code by Jason Francis](https://github.com/BL-MSCH-C220-Test/Exercise-03c-Music-and-Sound/blob/master/Brick/Brick.gd)
 
-[Yellow Forest music by Patrick De Arteaga](https://patrickdearteaga.com/chiptune-8-bit-retro/)
+Music by my wife Aeris E. Kaliczak
 
 Rooster sound effect by my rooster
 
